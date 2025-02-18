@@ -9,9 +9,16 @@
 - Diploma, Project Manaegment, Monitoring and Evaluation | Catholic University(Jun 2025)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Operations Coordinator @ Welthungerhilfe (_Dec 2021 – Dec 2024_)**
+-Dashboards Development: Developed and maintained an interactive PowerBI dashboards to effectively track budget expenditures and program outputs, enhancing reporting accuracy and facilitating data-driven decision-making.
+-Report writing: Compiled and produced comprehensive quarterly and annual program reports, ensuring high-quality documentation aligned with organizational standards.
+-Database Development: Designed and maintained comprehensive project databases, enabling efficient data extraction and reporting for management, which improved program oversight and resource allocation.
+-Data Collection Tools: Created mobile data collection tools using ODK to map water and sanitation points across four countries, significantly improving data accuracy and accessibility.
+-Technical Support: Conducted advocacy training sessions utilizing digital tools, empowering local actors to effectively share knowledge and best practices, while also providing training for stakeholders on using dashboards and interpreting data.
+-Monitoring and Evaluation: Monitored and followed up on the use of data management and evaluation tools to ensure adherence to standards and enhance operational efficiency.
+-Stakeholder Engagement: Engaged with stakeholders including government officials, private sector representatives, and civil society organizations, to foster collaboration and enhance program impact.
+-Knowledge management: developed knowledge management systems and facilitated country to country peer exchanges.  
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
