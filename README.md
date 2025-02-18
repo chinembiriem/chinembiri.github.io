@@ -1,11 +1,12 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+					       		
+- M.S., Data Science and Analytics	| Harare Institute of Technology (_May 2025_)	 			        		
+- B.S., Information Technology | Chinhoyi University of Technology (_Dec 2013_)
+- Diploma, Project Manaegment, Monitoring and Evaluation | Catholic University(Jun 2025)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
