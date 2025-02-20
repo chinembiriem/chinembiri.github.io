@@ -4,9 +4,10 @@
 
 ## Education
 					       		
-- M.S., Data Science and Analytics	| Harare Institute of Technology (_May 2025_)	 			        		
+- M.S., Data Science and Analytics	| Harare Institute of Technology (_May 2025_)	 			        
 - B.S., Information Technology | Chinhoyi University of Technology (_Dec 2013_)
 - Diploma, Project Manaegment, Monitoring and Evaluation | Catholic University(Jun 2025)
+- certificates| Digital Marketing, Graphics Designing, Website Development 
 
 ## Work Experience
 **Operations Coordinator @ Welthungerhilfe (_Dec 2021 – Dec 2024_)**
