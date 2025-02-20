@@ -7,7 +7,7 @@
 - M.S., Data Science and Analytics	| Harare Institute of Technology (_May 2025_)	 			        
 - B.S., Information Technology | Chinhoyi University of Technology (_Dec 2013_)
 - Diploma, Project Manaegment, Monitoring and Evaluation | Catholic University(Jun 2025)
-- Certificates| Digital Marketing, Graphics Designing, Website Development 
+- Certificates | Digital Marketing, Graphics Designing, Website Development 
 
 ## Work Experience
 **Operations Coordinator @ Welthungerhilfe (_Dec 2021 – Dec 2024_)**
