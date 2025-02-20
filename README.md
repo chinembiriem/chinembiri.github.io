@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R 
+#### Technical Skills: Python, SQL, R, Coreldraw, 
 
 ## Education
 					       		
@@ -34,19 +34,13 @@
 - Technical Support: Provided technical database support to project officers and partner organizations, enhancing their data management capabilities.
 - Knowledge Management: Led initiatives to implement internal knowledge management systems, improving file sharing and knowledge retention among team members. 
 
-
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### IoT-Enabled Precision Agriculture: Machine Learning-Driven Fertilizer Optimization for Smallholder Farmers in Zimbabwe via Real-Time Soil Health Monitoring!
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-
-
+A low-cost Internet of Things (IoT) prototype that integrates RS485 soil sensors to gather real-time data on nitrogen (N), phosphorus (P), potassium (K), and pH levels from smallholder farms in Zimbabwe, in collaboration with the Department of Research and Specialist Services (DR&SS). The system employs a Multilayer Perceptron (MLP) model, enhanced with decision tree algorithms, to analyze both sensor data and historical records from DR&SS. This analysis aims to generate adaptive fertilizer recommendations that consider seasonal variability and agroecological diversity. Additionally, the precision of the MLP model will be validated against laboratory benchmarks and traditional fertilizer recommendation systems, ensuring its reliability and effectiveness in optimizing fertilizer use for improved agricultural outcomes.
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+1. Chinembiri E, and Alexandre J. Artisanal and small-scale mining mapping in the Runde Rural District of Zimbabwe(2019). 
+[Publication](https://ipisresearch.be/publication/artisanal-small-scale-mining-mapping-runde-rural-district-zimbabwe/)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
